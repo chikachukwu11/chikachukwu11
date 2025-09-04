@@ -12,6 +12,6 @@
   -[Windows Domain Controller](https://github.com/chikachukwu11/AWS-Lab)
 
 <h2> 📲 Connect with me:</h2>
-[LinkedIn]: https://www.linkedin.com/in/chika-chukwu/
+<b>LinkedIn:</b> https://www.linkedin.com/in/chika-chukwu/
 
   
