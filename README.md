@@ -6,7 +6,7 @@
   -[Server Password Hacking](https://github.com/chikachukwu11/Kali-Linux-Hacking-Lab)
 - <b>Azure</b>
   -[Azure Siem Lab](https://github.com/chikachukwu11/Azure-Siem-Lab)
-  - <b>Python</b>
+- <b>Python</b>
   -[Crypto Trading Bot](https://github.com/chikachukwu11/Crypto-Trading-Bot)
 - <b>AWS</b>
   -[Windows Domain Controller](https://github.com/chikachukwu11/AWS-Lab)
