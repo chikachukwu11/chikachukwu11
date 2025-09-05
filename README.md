@@ -7,7 +7,7 @@
 - <b>Azure</b>
   -[Azure SIEM Lab](https://github.com/chikachukwu11/Azure-Siem-Lab)
 - <b>Python</b>
-  -[Crypto Trading Bot](https://github.com/chikachukwu11/Crypto-Trading-Bot)
+  -[Port Scanner](https://github.com/chikachukwu11/Crypto-Trading-Bot)
 - <b>AWS</b>
   -[Windows Domain Controller](https://github.com/chikachukwu11/AWS-Lab)
 
