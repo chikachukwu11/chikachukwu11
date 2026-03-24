@@ -2,8 +2,6 @@
 
 <h2>👨🏾‍💻Cybersecurity Projects: </h2>
 
-- <b>Kali Linux Hacking Lab</b>
-  -[Server Password Hacking](https://github.com/chikachukwu11/Kali-Linux-Hacking-Lab)
 - <b>Azure</b>
   -[Home SOC + SIEM Lab](https://github.com/chikachukwu11/Home-SOC-Siem-Lab)
 - <b>Python</b>
