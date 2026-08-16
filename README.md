@@ -8,6 +8,8 @@
   -[Port Scanner](https://github.com/chikachukwu11/Port-Scanner)
 - <b>AWS</b>
   -[Windows Domain Controller](https://github.com/chikachukwu11/AWS-Lab)
+- <b>Okta</b>
+  -[IAM Lifecycle](https://github.com/chikachukwu11/Okta-JML-Lifecycle)
 
 <h2> 📲 Connect with me:</h2>
 <b>LinkedIn:</b> https://www.linkedin.com/in/chika-chukwu/
